@@ -31,7 +31,7 @@
   export default {
     name: 'Quiz',
     components: {
-      Question
+       Question
     },
     props:['url'],
     data() {
@@ -63,7 +63,6 @@
         this.questionStage = true;
       },
       handleAnswer(e) {
-        console.log('answer event ftw',e);
         this.answers[this.currentQuestion]=e.answer;
         if((this.currentQuestion+1) === this.questions.length) {
           this.handleResults();
@@ -74,12 +73,10 @@
         }
       },
       handleResults() {
-        console.log('handle results');
         this.questions.forEach((a, index) => {
           if(this.answers[index] === a.answer) this.correct++;
         });
         this.perc = ((this.correct / this.questions.length)*100).toFixed(2);
-        console.log(this.correct+' '+this.perc);
       }
     }
 }

@@ -1,0 +1,1290 @@
+{
+  "title": "Nutrição",
+  "questions": [
+    {
+      "text": "A maior concentração de vitamina K fica armazenada em qual órgão do corpo humano?",
+      "type": "mc",
+      "answers": [
+        "Cérebro",
+        "Coração",
+        "Intestino",
+        "Rins",
+        "Fígado"
+      ],
+      "answer": "Fígado",
+      "lvl": "Fácil",
+      "more": "http://www.scielo.br/scielo.php?pid=S1415-52732001000300007&script=sci_abstract&tlng=pt"
+    },
+    {
+      "text": "A deficiência de ferro pode desencadear qual doença?",
+      "type": "mc",
+      "answers": [
+        "Gastrite",
+        "Diabetes",
+        "Hipoercolesterolemia",
+        "Anemia Ferropriva",
+        "Nenhuma das anteriores"
+      ],
+      "answer": "Anemia Ferropriva",
+      "lvl": "Fácil",
+      "more": "http://conitec.gov.br/images/Consultas/Relatorios/2014/pcdt_Anemia_DeficienciaFerro_2014.pdf"
+    },
+    {
+      "text": "Após sua absorção o zinco é encaminhado para qual órgão:",
+      "type": "mc",
+      "answers": [
+        "Coração",
+        "Fígado",
+        "Baço",
+        "Pâncreas",
+        "Intestino"
+      ],
+      "answer": "Fígado",
+      "lvl": "Fácil",
+      "more": "http://www.redalyc.org/html/260/26019329014/"
+    },
+    {
+      "text": "O organismo humano precisa do magnésio por diversos motivos. Sem ele, o corpo não seria capaz de produzir energia, os músculos ficariam se contraindo e o colesterol sanguíneo não poderia ser controlado. Assinale quais os alimentos fontes em magnésio que ajudam a garantir a necessidade diária do nutriente?",
+      "type": "mc",
+      "answers": [
+        "Espinafre, coentro, feijão preto, abacate, figo, acelga. ",
+        "Abacate, arroz integral, laranja, abobora.",
+        "Banana, maracujá, cebola, coentro, feijão preto.",
+        "Figo, salmão, manga, maça, feijão branco."
+      ],
+      "answer": "Abacate, arroz integral, laranja, abobora.",
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/16-Magne%CC%81sio.pdf"
+    },
+    {
+      "text": "m que tipos de alimentos há maior presença de Vitamina E?",
+      "type": "mc",
+      "answers": [
+        "Ricos em carboidratos",
+        "Altamente processados",
+        "Açúcares",
+        "Alimentos secos",
+        "Alimentos fonte de boas gorduras"
+      ],
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/artigo_vitamina_e.pdf"
+    },
+    {
+      "text": "São alimentos fontes de vitamina B9”, alternativas:",
+      "type": "mc",
+      "answers": [
+        "Leguminosas como feijão, ervilha e lentilha",
+        "Folhosos verdes escuros, legumes, amendoim e milho",
+        "Cereais como arroz, pães e massas",
+        "De origem animal como fígado, ovos e leite",
+        "Frutas e verduras"
+      ],
+      "answer": "Folhosos verdes escuros, legumes, amendoim e milho",
+      "lvl": "Fácil",
+      "more": "http://revista-fi.com.br/upload_arquivos/201607/2016070473044001469734812.pdf"
+    },
+    {
+      "text": "80% da vitamina D é absorvida em qual órgão?",
+      "type": "mc",
+      "answers": [
+        "Intestino Delgado",
+        "Esôfago",
+        "Fígado",
+        "Estomago",
+        "Coração"
+      ],
+      "answer": "Intestino Delgado",
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/artigo_vitamina_d.pdf"
+    },
+    {
+      "text": "A Pirâmide de alimentos é constituída por quantos grupos?",
+      "type": "mc",
+      "answers": [
+        "7",
+        "5",
+        "4",
+        "8",
+        "6"
+      ],
+      "answer": "8",
+      "lvl": "Fácil",
+      "more": "http://www.scielo.br/pdf/rn/v12n1/v12n1a06.pdf"
+    },
+    {
+      "text": "Qual dos alimentos abaixo “não” é rico em cálcio?",
+      "type": "mc",
+      "answers": [
+        "Leite",
+        "Carnes",
+        "Espinafre",
+        "Sardinhas",
+        "Couve"
+      ],
+      "answer": "Carnes",
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/Fasci%CC%81culo-1-Seg-Edic%CC%A7a%CC%83o-Ca%CC%81lcio.pdf"
+    },
+    {
+      "text": "O organismo humano precisa do magnésio por diversos motivos. Sem ele, o corpo humano não seria capaz de produzir o que? Assinale a alternativa correta:",
+      "type": "mc",
+      "answers": [
+        "Secreção",
+        "Excreção",
+        "Energia",
+        "Digestão"
+      ],
+      "answer": "Energia",
+      "lvl": "Fácil",
+      "more": "http://revista.nutricion.org/PDF/352severo.pdf"
+    },
+    {
+      "text": "Ingestão excessiva da vitamina D pode causar:",
+      "type": "mc",
+      "answers": [
+        "Fome excessiva",
+        "Dor de dente",
+        "Rubor",
+        "Euforia",
+        "Fraqueza"
+      ],
+      "answer": "Fraqueza",
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/artigo_vitamina_d.pdf"
+    },
+    {
+      "text": "São alimentos fontes de vitamina B12. Alternativas:",
+      "type": "mc",
+      "answers": [
+        "Leguminosas como feijão, ervilha e lentilha",
+        "Folhosos verdes escuros como couve, espinafre e alface",
+        "Cereais como arroz, milho e pães integrais",
+        "De origem animal como fígado, carne vermelha e leite",
+        "De origem vegetal como frutas, legumes e verduras"
+      ],
+      "answer": "De origem animal como fígado, carne vermelha e leite",
+      "lvl": "Fácil",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "Qual é a refeição mais importante do dia?",
+      "type": "mc",
+      "answers": [
+        "Café da manhã",
+        "Almoço",
+        "Jantar",
+        "Lanche da tarde",
+        "Ceia"
+      ],
+      "answer": "Café da manhã",
+      "lvl": "Fácil",
+      "more": "http://www.scielo.br/pdf/rn/v23n5/a16v23n5.pdf"
+    },
+    {
+      "text": "Qual alimento é boa fonte de potássio?",
+      "type": "mc",
+      "answers": [
+        "Abacate",
+        "Melancia",
+        "Morango",
+        "Kiwi"
+      ],
+      "answer": "Abacate",
+      "lvl": "Fácil",
+      "more": "http://www.medicir.com/files/Alimentos_ricos_em_potassio.pdf"
+    },
+    {
+      "text": "A vitamina E também é conhecida como?",
+      "type": "mc",
+      "answers": [
+        "Lactose e galactose",
+        "Beta Caroteno e Tocoferol",
+        "Cálcio e dentina",
+        "Vitamina B e C",
+        "Ácido e base"
+      ],
+      "lvl": "Fácil",
+      "more": "http://insumos.com.br/aditivos_e_ingredientes/materias/189.pdf"
+    },
+    {
+      "text": "Quais das alternativas abaixo correspondem á uma das fontes da vitamina D?",
+      "type": "mc",
+      "answers": [
+        "Alface",
+        "Luz da Lua",
+        "Banana",
+        "Raios UVB solar",
+        "Água"
+      ],
+      "answer": "Raios UVB solar",
+      "lvl": "Fácil",
+      "more": "http://www.ovosbrasil.com.br/download/Boletim2.pdf"
+    },
+    {
+      "text": "Qual o nome mais popular da vitamina B9? ",
+      "type": "mc",
+      "answers": [
+        "Tiamina",
+        "Retinol",
+        "Ácido Fólico",
+        "Tocoferol",
+        "Riboflavina"
+      ],
+      "answer": "Ácido Fólico",
+      "lvl": "Fácil",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "Qual a importância da atividade física em conjunto com a alimentação saudável?",
+      "type": "mc",
+      "answers": [
+        "Aumenta o peso",
+        "Não há ligação nenhuma entre os dois",
+        "Mantém o corpo saudável, equilibra peso e fornece energia",
+        "Só ajuda a equilibrar o peso",
+        "Não tem importância"
+      ],
+      "answer": "Mantém o corpo saudável, equilibra peso e fornece energia",
+      "lvl": "Fácil",
+      "more": "http://www.diaadiaeducacao.pr.gov.br/portals/cadernospde/pdebusca/producoes_pde/2014/2014_unioeste_edfis_pdp_lizete_rissatto.pdf"
+    },
+    {
+      "text": "A vitamina k é considerada a vitamina anti - hemorrágica por auxiliar no processo de:",
+      "type": "mc",
+      "answers": [
+        "Cicatrização",
+        "Coagulação sanguínea",
+        "Ser anti inflamatório",
+        "Desenvolvimento do feto",
+        "Atua como anti oxidante"
+      ],
+      "answer": "Coagulação sanguínea",
+      "lvl": "Fácil",
+      "more": "http://www.scielo.br/pdf/rn/v14n3/7787.pdf"
+    },
+    {
+      "text": "A vitamina k é classificada como uma vitamina lipossolúvel, ou seja, possui afinidade por soluções gordurosas. É encontrada grandes quantidades em alimentos como:",
+      "type": "mc",
+      "answers": [
+        "Doces e refrigerantes",
+        "Óleos vegetais e hortaliças verde escuro",
+        "Peixes e frutos do mar",
+        "Frutas",
+        "Cereais"
+      ],
+      "answer": "Óleos vegetais e hortaliças verde escuro",
+      "lvl": "Fácil",
+      "more": "http://www.scielo.br/pdf/rn/v14n3/7787.pdf"
+    },
+    {
+      "text": "Para ter uma “Alimentação Saudável” a sua refeição deve ser:",
+      "type": "mc",
+      "answers": [
+        "Rica em gorduras",
+        "Poucas variedades de alimentos",
+        "Completa, não variada e equilibrada",
+        "Rica em Doces, frituras e refrigerantes",
+        "Completa, variada e equilibrada"
+      ],
+      "answer": "Completa, variada e equilibrada",
+      "lvl": "Fácil",
+      "more": "http://bvsms.saude.gov.br/bvs/publicacoes/alimentacao_saudavel.pdf"
+    },
+    {
+      "text": "A análise mais utilizada para a avaliação do estado nutrional de zinco no organismo",
+      "type": "mc",
+      "answers": [
+        "Exame CR",
+        "Coprocultura",
+        "Hemograma",
+        "Biopsia",
+        "TOTG"
+      ],
+      "lvl": "Fácil",
+      "more": "http://www.moreirajr.com.br/revistas.asp?id_materia=3057&fase=imprime"
+    },
+    {
+      "text": "A melhor fonte de vitaminas, minerais e fibras são:",
+      "type": "mc",
+      "answers": [
+        "Doces e bebidas açucaradas",
+        "Carne, peixe e frango",
+        "Leite, queijo e iogurte",
+        "Frutas e hortaliças",
+        "Todas as alternativas"
+      ],
+      "answer": "Frutas e hortaliças",
+      "lvl": "Fácil",
+      "more": "https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/assistencia_social/arquivos/arte_final/manual_de_nutricao.pdf"
+    },
+    {
+      "text": "Laranja, Kiwi, Brócolis, Agrião cru são alimentos ricos em qual vitamina?",
+      "type": "mc",
+      "answers": [
+        "C",
+        "B",
+        "E",
+        "A",
+        "D"
+      ],
+      "answer": "C",
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/21-Vitamina-C.pdf"
+    },
+    {
+      "text": "Qual vitamina 'cuida' da saúde dos olhos?",
+      "type": "mc",
+      "answers": [
+        "Vitamina D",
+        "Vitamina E",
+        "Vitamina A",
+        "Vitamina C",
+        "Vitamina K"
+      ],
+      "answer": "Vitamina A",
+      "lvl": "Fácil",
+      "more": "https://www.scielosp.org/article/rpsp/2002.v12n3/173-179/"
+    },
+    {
+      "text": "O que a hipervitaminose A pode causar em um indivíduo?",
+      "type": "mc",
+      "answers": [
+        "Dor nas costas",
+        "Delírio",
+        "Escorbuto",
+        "Cegueira noturna",
+        "Falta de apetite"
+      ],
+      "answer": "Delírio",
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/12-Vitamina-A.pdf"
+    },
+    {
+      "text": "Para aumentar a absorção dos alimentos do tipo B-Caroteno (frutas e vegetais de cor amarela) devemos ter uma refeição junto com quais tipos de alimentos?",
+      "type": "mc",
+      "answers": [
+        "Gorduras (castanha, queijo, abacate)",
+        "Alface",
+        "Arroz",
+        "Banana",
+        "Frango"
+      ],
+      "answer": "Gorduras (castanha, queijo, abacate)",
+      "lvl": "Fácil",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-52732005000400008"
+    },
+    {
+      "text": "Possível doença causada por deficiência de cálcio?",
+      "type": "mc",
+      "answers": [
+        "Calcemioma",
+        "Calcificação",
+        "Osteoporose",
+        "Anemia calciforme",
+        "Calciúria"
+      ],
+      "answer": "Osteoporose",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/pdf/abem/v43n6/11734.pdf"
+    },
+    {
+      "text": "No sangue, o Zinco circula ligado principalmente a qual componente:",
+      "type": "mc",
+      "answers": [
+        "Hemoglobina",
+        "Albumina",
+        "Fibrinogênio",
+        "Imunoglobina",
+        "Protrombina"
+      ],
+      "lvl": " Médio",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/07-Zinco.pdf"
+    },
+    {
+      "text": "A vitamina K da dieta é absorvida no ______, incorporada ao ______ e transportada pelas vias linfáticas. Para máximo aproveitamento requer bile e ___ ___. Preencha os espaços com suas respectivas respostas:",
+      "type": "mc",
+      "answers": [
+        "Estômago,  quimo, pH baixo.",
+        "Rim, aminoácido, sódio.",
+        "Intestino delgado, quilomícrons, suco pancreático.",
+        "Boca, saliva, boa mastigação.",
+        "Coração, sangue, vitamina C."
+      ],
+      "answer": "Intestino delgado, quilomícrons, suco pancreático.",
+      "lvl": "Média",
+      "more": "http://www.scielo.br/scielo.php?pid=S1415-52732001000300007&script=sci_abstract&tlng=pt"
+    },
+    {
+      "text": " Qual é a função mais conhecida da vitamina E?",
+      "type": "mc",
+      "answers": [
+        "Antioxidante",
+        "Analgésica",
+        "Calmante",
+        "Antialérgica",
+        "Anticárie"
+      ],
+      "answer": "Antioxidante",
+      "lvl": "Média",
+      "more": "http://www.revista-fi.com/materias/378.pdf"
+    },
+    {
+      "text": "Sabe-se que é pouco provável a ocorrência de deficiência de potássio por consumo alimentar insuficiente, porém pode ocorrer devido a algumas condições clínicas ou uso de alguns medicamentos. A deficiência grave de potássio pode ocasionar o que no corpo humano?",
+      "type": "mc",
+      "answers": [
+        "Arritmias cardíacas, fraqueza muscular e intolerância à glicose.",
+        "Insônia ou sono excessivo",
+        "Diarreia, náuseas e vômitos",
+        "Sede excessiva, retenção de líquidos"
+      ],
+      "answer": "Arritmias cardíacas, fraqueza muscular e intolerância à glicose.",
+      "lvl": "Média",
+      "more": "http://www.scielo.br/pdf/ea/v21n60/a09v2160.pdf"
+    },
+    {
+      "text": "A vitamina B12, também conhecida como cobalamina, possui um ion central, qual seria esse elemento?",
+      "type": "mc",
+      "answers": [
+        "Ferro",
+        "Cobalto",
+        "Enxofre",
+        "Mercurio",
+        "Hidrogênio"
+      ],
+      "answer": "Cobalto",
+      "lvl": "Média",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "Onde age a vitamina D preferencialmente?",
+      "type": "mc",
+      "answers": [
+        "Pele",
+        "Cabelo",
+        "Ossos",
+        "Unhas",
+        "Membranas"
+      ],
+      "answer": "Ossos",
+      "lvl": "Média",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/artigo_vitamina_d.pdf"
+    },
+    {
+      "text": "Onde é feita a absorção do potássio e sua filtração?",
+      "type": "mc",
+      "answers": [
+        "Pâncreas",
+        "Intestino grosso e cólon transverso",
+        "Células vermelhas e células brancas",
+        "Intestino delgado no glomérulo renal"
+      ],
+      "answer": "Intestino delgado no glomérulo renal",
+      "lvl": "Média",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/11-Pota%CC%81ssio.pdf"
+    },
+    {
+      "text": "Porque é importante consumir nutrientes antioxidantes, como a Vitamina E?",
+      "type": "mc",
+      "answers": [
+        "Prevenir o envelhecimento precoce das células",
+        "Para crescer",
+        "Para emagrecer",
+        "Para rejuvenescer",
+        "Não é importante"
+      ],
+      "answer": "Prevenir o envelhecimento precoce das células",
+      "lvl": "Média",
+      "more": "https://estudogeral.sib.uc.pt/bitstream/10316/31968/1/tese.pdf"
+    },
+    {
+      "text": "Qual a letra que representa o calciferol?",
+      "type": "mc",
+      "answers": [
+        "A",
+        "K",
+        "D",
+        "E",
+        "B"
+      ],
+      "answer": "D",
+      "lvl": "Média",
+      "more": "http://www.cookie.com.br/site/wp-content/uploads/2014/11/vitamina-D.pdf"
+    },
+    {
+      "text": "A vitamina B9 passa por diversas fases em seu metabolismo, porém em uma dessas fases ela se torna ácido tetrahidrofólico, nesta fase de metabolização qual a sua principal função?",
+      "type": "mc",
+      "answers": [
+        "Realiza divisão celular",
+        "Coenzima no metabolismo de aminoácidos e ácidos nucleicos",
+        "Síntese de colágeno",
+        "Oxidação do DNA",
+        "Coenzima na absorção de vitamina D"
+      ],
+      "answer": "Coenzima no metabolismo de aminoácidos e ácidos nucleicos",
+      "lvl": "Média",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "O zinco é indispensável para a integridade do sistema ____________.",
+      "type": "mc",
+      "answers": [
+        "Nervoso",
+        "Cardiovascular",
+        "Respiratório",
+        "Imune",
+        "Endócrino"
+      ],
+      "answer": "Imune",
+      "lvl": "Médio",
+      "more": "http://www.redalyc.org/pdf/260/26019329014.pdf"
+    },
+    {
+      "text": "A vitamina K atua como coenzima para carboxilação  de diversas proteínas. Qual composto faz parte dessas proteínas e em quê ele é transformado?",
+      "type": "mc",
+      "answers": [
+        "Lactase é tranaformada em Lactose",
+        "Proteína é transformada em Carboidratos",
+        "Ácido glutâmico é transformado em ácido gama-carboxiglutâmico",
+        "Protrombina é transformada em Proconvertina",
+        "Vitamina K é transformada em filoquinona"
+      ],
+      "answer": "Ácido glutâmico é transformado em ácido gama-carboxiglutâmico",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0482-50042006000600007"
+    },
+    {
+      "text": "Uma das funções da vitamina",
+      "type": "mc",
+      "answers": [
+        "Aumento de ferro no sangue",
+        "Prevenção de osteoporose",
+        "Produção de testosterona",
+        "Controle do colesterol",
+        "Aumento do açúcar no sangue"
+      ],
+      "answer": "Produção de testosterona",
+      "lvl": "Médio",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/12-Vitamina-A.pdf"
+    },
+    {
+      "text": "O Cálcio é um nutriente importante para o funcionamento do corpo uma vez que ele atua na formação de ossos e dentes, regula a coagulação e participa de funções neuromusculares, além de ser o mineral em maior quantidade no organismo. Na Pirâmide Alimentar, qual é o grupo mais rico em cálcio?",
+      "type": "mc",
+      "answers": [
+        "Frutas",
+        "Laticínios",
+        "Hortaliças",
+        "Cereais e derivados",
+        "Óleos e gorduras"
+      ],
+      "answer": "Laticínios",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/pdf/abem/v50n5/32222.pdf"
+    },
+    {
+      "text": "Qual o tecido do organismo tem a maior concentração de fósforo?",
+      "type": "mc",
+      "answers": [
+        "Tecido adiposo",
+        "Tecido fibroso",
+        "Tecido calciforme",
+        "Tecido nervoso",
+        "Tecido ósseo"
+      ],
+      "answer": "Tecido ósseo",
+      "lvl": "médio",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/15-Fo%CC%81sforo.pdf"
+    },
+    {
+      "text": "O magnésio é extremamente importante para o metabolismo de outros minerais, sendo que um mineral especifico onde a interação com o magnésio é metabologicamente alta, atuando de forma sinérgica e/ou antagônica, na formação de estruturas e na regulação do nível de cálcio por meio da ação indireta sobre as glândulas paratireoides, uma vez que estimula a secreção e ação periférica do PTH. Qual é este mineral?",
+      "type": "mc",
+      "answers": [
+        "Zinco",
+        "Fósforo",
+        "Cálcio",
+        "Potássio"
+      ],
+      "answer": "Cálcio",
+      "lvl": "Médio",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/16-Magne%CC%81sio.pdf"
+    },
+    {
+      "text": "Qual vitamina abaixo é lipossolúvel?",
+      "type": "mc",
+      "answers": [
+        "Cobalamina",
+        "Calciferol",
+        "Ácido Ascórbico",
+        "Tiamina",
+        "Riboflavina"
+      ],
+      "answer": "Calciferol",
+      "lvl": "Médio",
+      "more": "https://www.ufrgs.br/lacvet/site/wp-content/uploads/2013/10/vitam_lipoAna.pdf"
+    },
+    {
+      "text": "O zinco é um elemento necessário para a atividade de mais de 200 enzimas envolvidas na manutenção de importantes vias metabólicas do organismo. Entre as fontes desse mineral, qual alternativa é incorreta:",
+      "type": "mc",
+      "answers": [
+        "Peixe",
+        "Ostras",
+        "Grãos integrais",
+        "Carne bovina",
+        "Frutas vermelhas"
+      ],
+      "answer": "Frutas vermelhas",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-52732004000100009"
+    },
+    {
+      "text": "A vitamina A também é conhecida como:",
+      "type": "mc",
+      "answers": [
+        "Retinol",
+        "Tocoferol",
+        "Ácido ascorbico",
+        "Colecalciferol",
+        "Riboflavina"
+      ],
+      "answer": "Retinol",
+      "lvl": "Médio",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/12-Vitamina-A.pdf"
+    },
+    {
+      "text": "A vitamina B12 é muito importante para a saúde geral do ser humano, sendo assim, quais são os principais danos causados pela sua deficiência?",
+      "type": "mc",
+      "answers": [
+        "Alta divisão celular ocasionando anemia",
+        "Pele ressecada e dano na visão",
+        "Ocasiona doença hepática",
+        "Dificulta a divisão celular e interrompe a síntese de DNA",
+        "Baixa concentração de zinco no plasma e baixa estatura"
+      ],
+      "answer": "Dificulta a divisão celular e interrompe a síntese de DNA",
+      "lvl": "Médio",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "A vitamina A tem propriedades  antioxidantes, esse assunto esta diretamente ligado ao combate da(o) :",
+      "type": "mc",
+      "answers": [
+        "Resfriado",
+        "Dor de barriga",
+        "Dor de ouvido",
+        "Inflamação",
+        "Dor de cabeça"
+      ],
+      "answer": "Inflamação",
+      "lvl": "Médio",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/12-Vitamina-A.pdf"
+    },
+    {
+      "text": "Quais são os principais agentes do envelhecimento precoce das células?",
+      "type": "mc",
+      "answers": [
+        "Radicais livres",
+        "Gripe",
+        "Radicais ligados",
+        "Colesterol",
+        "Albumina"
+      ],
+      "answer": "Radicais livres",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/pdf/rbgg/v14n3/v14n3a05.pdf"
+    },
+    {
+      "text": "Na pirâmide alimentar brasileira, o menor espaço é destinado ao grupo de alimentos que devem ser evitados. Quais são eles?",
+      "type": "mc",
+      "answers": [
+        "Laticínios e carnes",
+        "Leguminosas e hortaliças",
+        "Óleo, gordura e açúcar",
+        "Frutas e hortaliças",
+        "Carnes e leguminosas"
+      ],
+      "answer": "Óleo, gordura e açúcar",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/pdf/rn/v12n1/v12n1a06.pdf"
+    },
+    {
+      "text": "Sabendo-se que o armazenamento do excedente de ferro no sangue se dá em uma célula hepática. De qual órgão estamos falando?",
+      "type": "mc",
+      "answers": [
+        "Pulmão",
+        "Coração",
+        "Esôfago",
+        "Faringe",
+        "Fígado"
+      ],
+      "answer": "Fígado",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-84842010000800003"
+    },
+    {
+      "text": "Uma das principais estratégias que pode ser implementada para melhorar o estado nutricional de zinco nas populações é:",
+      "type": "mc",
+      "answers": [
+        "Ingerir alimentos que possuem fitatos para aumentar biodisponibilidade.",
+        "Aumentar o consumo de Vitamina C para aumentar a absorção.",
+        "Ingerir alimentos que possuem fibras para aumentar biodisponibilidade.",
+        "Elevar consumo de hortaliças ricas em Zinco.",
+        "Suplementação, a fortificação e a modificação/diversificação da dieta."
+      ],
+      "answer": "Suplementação, a fortificação e a modificação/diversificação da dieta.",
+      "lvl": "Difícil",
+      "more": "http://sban.cloudpainel.com.br/files/revistas_publicacoes/487.pdf"
+    },
+    {
+      "text": "Deficiência de vitaminas pode causar inúmeros problemas a saúde. Casos de deficiência da vitamina __ são raros em adultos, porém em neonatos (recém nascido) a deficiência é bem comum. Complete o espaço da afirmação",
+      "type": "mc",
+      "answers": [
+        "Fator Imune",
+        "Vitamina K",
+        "Vitamina Cálcio",
+        "Vitamina A",
+        "Ferro"
+      ],
+      "answer": "Vitamina K",
+      "lvl": "Difícil",
+      "more": " http://www.scielo.br/pdf/rbr/v46n6/07.pdf"
+    },
+    {
+      "text": " Porque os grupos da Pirâmide são de tamanhos diferentes?",
+      "type": "mc",
+      "answers": [
+        "Por que só devemos comer os alimentos que se encontram nos grupos menores",
+        "Por que só devemos comer os alimentos que se encontram nos grupos maiores",
+        "Por que não devemos comer os alimentos da Pirâmide",
+        "Por que devemos comer em maior quantidade os alimentos dos grupos maiores e menos dos menores",
+        "Não tem nenhum significado"
+      ],
+      "answer": "Por que devemos comer em maior quantidade os alimentos dos grupos maiores e menos dos menores",
+      "lvl": "Difícil",
+      "more": "http://www.scielo.br/pdf/rn/v12n1/v12n1a06.pdf"
+    },
+    {
+      "text": "Qual a principal fonte alimentar do Cálcio?",
+      "type": "mc",
+      "answers": [
+        "Vegetais",
+        "Frutas",
+        "Laticínios",
+        "Grãos",
+        "NA"
+      ],
+      "answer": "Laticínios",
+      "lvl": "Difícil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/Fasci%CC%81culo-1-Seg-Edic%CC%A7a%CC%83o-Ca%CC%81lcio.pdf"
+    },
+    {
+      "text": "Quais elementos reduz a capacidade de absorção e quais aumentam a capacidade de absorção do magnésio?",
+      "type": "mc",
+      "answers": [
+        "Reduz com a presença de vitamina D e aumenta com a presença de vitamina C",
+        "Reduz na presença de cálcio, álcool, fosfato, fitato e aumenta com a presença de vitamina D",
+        "Reduz na presença de lipídios, vitaminas do complexo B e aumenta com um jejum em tempo prolongado significativo",
+        "Reduz na presença de álcool, probióticos e aumenta com vitamina B12"
+      ],
+      "answer": "Reduz na presença de cálcio, álcool, fosfato, fitato e aumenta com a presença de vitamina D",
+      "lvl": "Difícil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/16-Magne%CC%81sio.pdf"
+    },
+    {
+      "text": "A recomendação de Zinco para mulheres e homens sádios é respectivamente:",
+      "type": "mc",
+      "answers": [
+        "7mg/dia e 12mg/dia",
+        "11mg/dia e 15mg/dia",
+        "9mg/dia e 6mg/dia",
+        "11mg/dia e 8mg/dia",
+        "10mg/dia e 14mg/dia"
+      ],
+      "answer": "11mg/dia e 8mg/dia",
+      "lvl": "Difícil",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-52732004000100009"
+    },
+    {
+      "text": "Qual dos órgãos a seguir é o grande responsável pelo transporte, armazenamento e excreção da vitamina A.",
+      "type": "mc",
+      "answers": [
+        "Intestino grosso",
+        "Rins ",
+        "FIGADO",
+        "Baço",
+        "Estomago"
+      ],
+      "answer": "FIGADO",
+      "lvl": "Difícil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/12-Vitamina-A.pdf"
+    },
+    {
+      "text": " O que leva a deficiência da vitamina D em crianças?",
+      "type": "mc",
+      "answers": [
+        "Osteomalácia",
+        "Arteriosclerose",
+        "Raquitismo",
+        "Hipertensão",
+        "Osteoporose"
+      ],
+      "answer": "Raquitismo",
+      "lvl": "Difícil",
+      "more": "http://revistaseletronicas.pucrs.br/ojs/index.php/scientiamedica/article/viewFile/1554/1157"
+    },
+    {
+      "text": "A metilação de homocisteina (Hcy) é essencial para o acido fólico, portanto, sua deficiência influencia níveis de Hcy, já o aumento de Hcy, esta associada a qual doença?",
+      "type": "mc",
+      "answers": [
+        "Doença hepática",
+        "Doença de Croh",
+        "Doenças vasculares",
+        "PancreatitE",
+        "Hipertensão"
+      ],
+      "answer": "Doenças vasculares",
+      "lvl": "Difícil",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "Sabendo que as vitaminas sāo de extrema importância para manter a manutenção do organismo, sua deficiência pode causar problemas irreversíveis ao ser humano.  No caso da vitamina A, assinale qual das doenças a seguir pode ser adquirida por deficiência da mesma",
+      "type": "mc",
+      "answers": [
+        "Falência dos rins",
+        "Síndrome do intestino irritável",
+        "Osteoporose",
+        "Cegueira Noturna",
+        "Doenças cardiovasculares"
+      ],
+      "answer": "Cegueira Noturna",
+      "lvl": "Difícil",
+      "more": "http://www.jped.com.br/conteudo/00-76-s311/port.pdf"
+    },
+    {
+      "text": "Qual vitamina deve estar associada ao metabolismo da vitamina E, para que seja regenerada sua ação oxidante?",
+      "type": "mc",
+      "answers": [
+        "Vitamina A",
+        "Vitamina C",
+        "Niacina",
+        "B1",
+        "Cálcio"
+      ],
+      "answer": "Vitamina C",
+      "lvl": "Difícil",
+      "more": "http://www.scielo.br/pdf/abem/v53n5/08.pdf"
+    },
+    {
+      "text": "Qual o tempo de meia-vida da vitamina D no organismo?",
+      "type": "mc",
+      "answers": [
+        "30 minutos a 1 hora",
+        "4 a 7 horas",
+        "24 a 48 horas",
+        "5 a 7 horas",
+        "4 a 6 horas"
+      ],
+      "answer": "4 a 6 horas",
+      "lvl": "Difícil",
+      "more": "http://www.aem-sbem.com/media/uploads/566_575_ABEM_558.pdf"
+    },
+    {
+      "text": "O potássio em conjunto com o sódio é responsável pelo equilíbrio hidroeletrolítico. Um dos mecanismos mais conhecidos é a bomba de sódio-potássio que está ligada diretamente a processos de contração muscular e condução de impulsos nervosos. Como funciona a bomba sódio- potássio?",
+      "type": "mc",
+      "answers": [
+        "A bomba sódio potássio atua após a ação da enzima sódio- potássio ATPase, de ação ativa, com gasto energético, que atua fazendo a troca do potássio em maior concentração no meio intracelular com o sódio encontrado no meio extracelular",
+        "A bomba sódio potássio atua após a ação da enzima sódio- potássio ATPase, de ação passiva, com gasto energético, que atua fazendo a troca do sódio em maior concentração no meio intracelular com o potássio encontrado no meio extracelular",
+        "A bomba sódio potássio atua após a ação da enzima sódio- potássio Transferase, tendo ação ativa, sem gasto energético, que atua fazendo a troca do potássio em maior concentração no meio intracelular com o sódio encontrado no meio extracelular",
+        "A bomba sódio potássio atua após a ação da enzima sódio- potássio ATPase, tendo ação ativa, sem gasto energético, que atua fazendo a troca do potássio em menor concentração no meio intracelular com o sódio encontrado no meio extracelular"
+      ],
+      "answer": "A bomba sódio potássio atua após a ação da enzima sódio- potássio ATPase, de ação ativa, com gasto energético, que atua fazendo a troca do potássio em maior concentração no meio intracelular com o sódio encontrado no meio extracelular",
+      "lvl": "Difícil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/11-Pota%CC%81ssio.pdf"
+    },
+    {
+      "text": "uais dos alimentos da lista podem atrapalhar a absorção do cálcio.",
+      "type": "mc",
+      "answers": [
+        "Legumes",
+        "Sorvetes",
+        "Castanhas",
+        "Refrigerantes",
+        "Excesso de água"
+      ],
+      "answer": "Refrigerantes",
+      "lvl": "Difícil",
+      "more": "http://www.scielo.br/pdf/abem/v50n5/32222.pdf"
+    },
+    {
+      "text": "Ele é o terceiro mineral mais presente no organismo humano, só ficando atrás do fósforo e do cálcio. Encontrado em diversos alimentos (maior quantidade nos de origem vegetal) atua diretamente nos nervos e músculos",
+      "type": "mc",
+      "answers": [
+        "Vitamina K",
+        "Proteína",
+        "Carboidrato",
+        "Potássio",
+        "Fibras"
+      ],
+      "answer": "Potássio",
+      "lvl": "Difícil",
+      "more": "http://www.revista-fi.com/materias/52.pdf"
+    },
+    {
+      "text": "Qual é o nutriente que potencializa a absorção do Ferro?",
+      "type": "mc",
+      "answers": [
+        "Potássio",
+        "Vitamina D",
+        "Vitamina C",
+        "Cálcio",
+        "Vitamina K"
+      ],
+      "answer": "Vitamina C",
+      "lvl": "Difícil",
+      "more": "http://seletti.com.br/potencialize-a-absorcao-do-ferro-com-a-vitamina-c/"
+    },
+    {
+      "text": "ual vitamina deve estar associada ao metabolismo da vitamina E, para que seja regenerada sua ação oxidante?",
+      "type": "mc",
+      "answers": [
+        "Vitamina A",
+        "Vitamina C",
+        "Niacina",
+        "B1",
+        "Cálcio"
+      ],
+      "answer": "Vitamina C",
+      "lvl": "Difícil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/21-Vitamina-C.pdf"
+    },
+    {
+      "text": "Em qual destes órgãos a vitamina E é armazenada?",
+      "type": "mc",
+      "answers": [
+        "Baço",
+        "Pâncreas",
+        "Cerebelo",
+        "Fígado",
+        "Pele"
+      ],
+      "answer": "Fígado",
+      "lvl": "Difícil",
+      "more": "http://www.medicinabiomolecular.com.br/biblioteca/pdfs/Nutrientes/nu-0142.pdf"
+    },
+    {
+      "text": "Qual o nome da proteína que se liga ao zinco na função de carreador intracelular, aumentando a velocidade de sua absorção:",
+      "type": "mc",
+      "answers": [
+        "CRIP (proteína intestinal rica em cisteína)",
+        "GLUT-1",
+        "Metalotioneína",
+        "Guanosina trifosfato",
+        "GTPase"
+      ],
+      "answer": "CRIP (proteína intestinal rica em cisteína)",
+      "lvl": "Muito Difícil",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-52732004000100009"
+    },
+    {
+      "text": "Qual é o principal folato circulante?",
+      "type": "mc",
+      "answers": [
+        "Metil-tetraidrofolato",
+        "Poliglutamatos",
+        "Folato monoglutamato",
+        "Pentaglutamato",
+        "Hexaglutamatos"
+      ],
+      "answer": "Metil-tetraidrofolato",
+      "lvl": "Muito Difícil",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "Uma alimentação inadequada, tanto pelo excesso, como pela falta de algum nutriente, favorece o surgimento de algumas doenças, dentre elas:",
+      "type": "mc",
+      "answers": [
+        "Não tem relação",
+        "Fibrose",
+        "Necrose",
+        "Cirrose",
+        "Diabetes tipo 2"
+      ],
+      "answer": "Diabetes tipo 2",
+      "lvl": "Muito Difícil"
+    },
+    {
+      "text": " O Magnésio estabiliza a estrutura do ATP nos músculos e tecidos moles, a partir de um complexo Mg-ATP.No metabolismo de CHO, participa pela ativação das enzimas do processo glicolítico e da fosforilação oxidativa, além de ativar outras enzimas como:",
+      "type": "mc",
+      "answers": [
+        "Catalase, lipase, transcriptase, polimerase",
+        "Fosfatase alcalina, hexoquinase,frutoquinase,fosforilases,fosfoglumutase e oxidase piruvica",
+        "Angiotensina, maltodrexina, hexodrexina, hexoquinase, fosfofrutoquinase, aldose",
+        "Oxidase piruvica, maltodrexina, fosfatase alcalina, aldolase, fosforilases"
+      ],
+      "answer": "Fosfatase alcalina, hexoquinase,frutoquinase,fosforilases,fosfoglumutase e oxidase piruvica",
+      "lvl": "Muito Difícil"
+    },
+    {
+      "text": "O zinco é perdido do organismo por meio dos rins, da pele e do intestino. As perdas endógenas intestinais podem variar entre:",
+      "type": "mc",
+      "answers": [
+        "4,0 a 6,0mg/dia",
+        "0,5 a 1,5mg/dia",
+        "0,5 a 3,0mg/dia",
+        "2,5 a 5,0mg/dia",
+        "1,5 a 2,0mg/dia"
+      ],
+      "answer": "0,5 a 3,0mg/dia",
+      "lvl": "Muito Difícil",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-52732004000100009"
+    },
+    {
+      "text": "Qual a principal forma circulante da vitamina D no organismo?",
+      "type": "mc",
+      "answers": [
+        "Calcitriol",
+        "Pós calciferol",
+        "Colecalciferol",
+        "Pré calciferol",
+        "Calcidiol"
+      ],
+      "answer": "Calcidiol",
+      "lvl": "Muito Difícil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/artigo_vitamina_d.pdf"
+    },
+    {
+      "text": "O cálcio participa da formação óssea, mas para isso ele precisa da ajuda de 1 enzima e 1 vitamina lipossolúvel que pode ser encontrada em verduras verdes escuras. Qual a enzima e qual a vitamina ajudam o cálcio?",
+      "type": "mc",
+      "answers": [
+        "Albumina e Vitamina C",
+        "Hidroxiapatita e Ferro",
+        "Vitamina A e Vitamina B9",
+        "Osteocalcina e Vitamina K",
+        "Colágeno e Vitamina B12"
+      ],
+      "answer": "Osteocalcina e Vitamina K",
+      "lvl": "Muito Difícil",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-52732001000300007"
+    },
+    {
+      "text": "Alguns tipos de drogas podem acabar inibindo a absorção de lipídios e reduzindo o nível de concentração sérica de carotenoides. A perda de Vitamina A hepática ocorre devido ao consumo de:",
+      "type": "mc",
+      "answers": [
+        "Medicamentos",
+        "Etanol",
+        "Gorduras Saturadas",
+        "Cigarro",
+        "Cafeína"
+      ],
+      "answer": "Etanol",
+      "lvl": "Muito Difícil",
+      "more": "https://www.ufpe.br/documents/883688/0/IMPLICA%C3%87%C3%95ES_DO_ALCOOLISMO_NO_CONSUMO_DE_MICRONUTRIENTES_-_UM_ESTUDO_PILOTO.pdf/660bab99-8e15-49dd-8ab4-4da959562d14"
+    },
+    {
+      "text": "A vitamina B12, ou como podemos chamar também cobalamina, possui muitas funções importantes para o bem estar do nosso corpo, sendo de suma importância, o consumo dessa no dia a dia, tendo por vista a importância dessa vitamina, qual dessas funções não se aplica a B12?",
+      "type": "mc",
+      "answers": [
+        "Regeneração dos músculos, mantendo as reservas de energia",
+        "Formação de hemácias",
+        "Formação de camadas de mielina",
+        "Síntese de DNA",
+        "Causa anemia perniciosa"
+      ],
+      "answer": "Causa anemia perniciosa",
+      "lvl": "Muito Difícil",
+      "more": "https://books.google.com.br/books?hl=pt-BR&lr=&id=lsalBwAAQBAJ&oi=fnd&pg=PT4&dq=BIODISPONIBILIDADE+DE+NUTRIENTES&ots=Oy5nN0VvGe&sig=zhWKcQBM86aOzqkFoMNeU6jaFMk#v=onepage&q=BIODISPONIBILIDADE%20DE%20NUTRIENTES&f=false"
+    },
+    {
+      "text": "Os rins mantêm as concentrações séricas normais através de sua capacidade de filtrar, reabsorver e excretar potássio sob influência de qual hormônio?",
+      "type": "mc",
+      "answers": [
+        "Renina",
+        "Angiotensina",
+        "Cortisol",
+        "Aldosterona"
+      ],
+      "answer": "Aldosterona",
+      "lvl": "Muito Difícil",
+      "more": "http://srvd.grupoa.com.br/uploads/imagensExtra/legado/E/EATON_Douglas_C/Fisiologia_Renal_Vander_8ed/Liberado/Amostra.pdf"
+    },
+    {
+      "text": " Qual a concentração desejável de calcidiol na avaliação do estado nutricional?",
+      "type": "mc",
+      "answers": [
+        "7 ng/ml",
+        "> 20 ng/ml",
+        "23 ng/ml",
+        "15 ng/ml",
+        "200 ng/ml"
+      ],
+      "answer": "> 20 ng/ml",
+      "lvl": "Muito Difícil",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0004-27302014000500411"
+    },
+    {
+      "text": "Qual a principal função do cálcio no organismo humano?",
+      "type": "mc",
+      "answers": [
+        "Função muscular",
+        "Ativação dos neurônios",
+        "Função hormonal",
+        "Formação de ossos e dentes",
+        "Litíase renal"
+      ],
+      "answer": "Função hormonal",
+      "lvl": "Muito Difícil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/Fasci%CC%81culo-1-Seg-Edic%CC%A7a%CC%83o-Ca%CC%81lcio.pdf"
+    },
+    {
+      "text": "O consumo pectina cítrica com alto índice de metoxil exerce uma função inibidora no processo de degradação hepática. Qual Vitamina acima que se refere?",
+      "type": "mc",
+      "answers": [
+        "Vitamina D",
+        "Vitamina K",
+        "Vitamina C",
+        "Vitamina E",
+        "Vitamina A"
+      ],
+      "answer": "Vitamina A",
+      "lvl": "Muito Difícil",
+      "more": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-52732005000400008."
+    },
+    {
+      "text": "Em qual alimento a vitamina C está presente em maior evidência?",
+      "type": "mc",
+      "answers": [
+        "Leite",
+        "Alface",
+        "Laranja",
+        "Acerola",
+        "Maçã"
+      ],
+      "answer": "Acerola",
+      "lvl": "Fácil",
+      "more": "http://www.scielo.br/pdf/abd/v78n3/16303.pdf"
+    },
+    {
+      "text": "Popularmente, a laranja é a fruta referência em vitamina C. Além dela, em quais outras frutas podemos encontrar esse nutriente?",
+      "type": "mc",
+      "answers": [
+        "Banana e melancia",
+        "Maçã e pera",
+        "Morango e limão",
+        "Abacaxi e cereja",
+        "Pêssego e abacate"
+      ],
+      "answer": "Morango e limão",
+      "lvl": "fácil",
+      "more": "http://www.scielo.br/pdf/abd/v78n3/16303.pdf"
+    },
+    {
+      "text": "Sabemos que além das frutas, a vitamina C está presente em outros alimentos. Qual dos alimentos abaixo não contém essa vitamina?",
+      "type": "mc",
+      "answers": [
+        "Salsa e pimentão",
+        "Agrião e couve-flor",
+        "Coentro e castanha",
+        "Brócolis e espinafre",
+        "Queijo e ovo"
+      ],
+      "answer": "Queijo e ovo",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/pdf/abd/v78n3/16303.pdf"
+    },
+    {
+      "text": "Qual a nomenclatura oficial para Vitamina C?",
+      "type": "mc",
+      "answers": [
+        "Ácido ascórbico",
+        "Ácido fólico",
+        "Retinol",
+        "Tiamina",
+        "Ácido pantatênico"
+      ],
+      "answer": "Ácido ascórbico",
+      "lvl": "Médio",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/21-Vitamina-C.pdf"
+    },
+    {
+      "text": "Alimentos ricos em vitamina C geralmente apresentam um sabor típico do nutriente. Qual acaracterística desse paladar?",
+      "type": "mc",
+      "answers": [
+        "Doce",
+        "Ácido",
+        "Amargo",
+        "Azedo",
+        "Salgado"
+      ],
+      "answer": "Ácido",
+      "lvl": "Fácil",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/21-Vitamina-C.pdf"
+    },
+    {
+      "text": "Dentro do nosso organismo, onde a vitamina C é absorvida?",
+      "type": "mc",
+      "answers": [
+        "Boca",
+        "Estômago",
+        "Intestino Grosso",
+        "Intestino Delgado",
+        "Jejuno e íleo"
+      ],
+      "answer": "Jejuno e íleo",
+      "lvl": "Dificíl",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/21-Vitamina-C.pdf"
+    },
+    {
+      "text": "Dentre todas as vitaminas, a C é a que mais facilmente perde suas propriedades nutritivas. Qual desses fatores não interferem na sua oxidação?",
+      "type": "mc",
+      "answers": [
+        "Método de colheita",
+        "Exposição ao meio alcalino",
+        "Temperatura",
+        "Luz",
+        "Exposição ao ar"
+      ],
+      "answer": "Método de colheita",
+      "lvl": "Médio",
+      "more": "http://www.scielo.br/scielo.php?pid=S1413-81232010000100010&script=sci_abstract&tlng=pt"
+    },
+    {
+      "text": "Além dos benefícios que a vitamina C exerce sobre nossa saúde, ela tem participação em várias funções do nosso organismo. São funções da vitamina, exceto:",
+      "type": "mc",
+      "answers": [
+        "Cofator de múltiplas enzimas",
+        "Coagulação sanguínea",
+        "Absorção e metabolismo do ferro",
+        "Varredura de radicais livres",
+        "Redução do risco de DCNT"
+      ],
+      "answer": "Coagulação sanguínea",
+      "lvl": "Dificíl",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/21-Vitamina-C.pdf"
+    },
+    {
+      "text": "A falta de vitaminas no organismo ocasiona danos à saúde. Qual dessas doenças está relacionada a carência de vitamina C?",
+      "type": "mc",
+      "answers": [
+        "Xeroftalmia",
+        "Raquitismo",
+        "Anemia",
+        "Escorbuto",
+        "Osteoporose"
+      ],
+      "answer": "Escorbuto",
+      "lvl": "Médio"
+    },
+    {
+      "text": "São sintomas da deficiência de vitamina C no organismo:",
+      "type": "mc",
+      "answers": [
+        "Fadiga e formigamento",
+        "Pele seca e infecções recorrentes",
+        "Esquimoses e petéquias",
+        "Queda de cabelo e tontura",
+        "Astenia e ataxia"
+      ],
+      "answer": "Esquimoses e petéquias",
+      "lvl": "Dificíl",
+      "more": "http://ilsi.org/brasil/wp-content/uploads/sites/9/2016/05/21-Vitamina-C.pdf"
+    }
+  ]
+}
