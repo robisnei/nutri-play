@@ -6,9 +6,7 @@ import 'quasar-extras/roboto-font'
 import 'quasar-extras/material-icons'
 import Quasar from 'quasar'
 
-Vue.use(Quasar, {
-  config: {}, i18n: lang
- })
+Vue.use(Quasar)
 
 Vue.config.productionTip = false
 

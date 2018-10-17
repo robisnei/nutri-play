@@ -2,12 +2,12 @@
   <div>
     <div v-if="introStage">
       <slot name="intro" :title="title">
-      <h1>Welcome to the Quiz: {{title}}</h1>
+      <h1>tema: {{title}}</h1>
       <p>
         Some kind of text here. Blah blah.
       </p>
       </slot>
-      <button @click="startQuiz">START!</button>
+      <button @click="startQuiz">Começar!</button>
     </div>
 
     <div v-if="questionStage">
@@ -20,13 +20,15 @@
 
     <div v-if="resultsStage">
       <slot name="results" :length="questions.length" :perc="perc" :correct="correct">
-      You got {{correct}} right out of {{questions.length}} questions. Your percentage is {{perc}}%.
+      Você acertou {{correct}} de {{questions.length}} questões. Sua pontuação foi de {{perc}}%
       </slot>
+      <button @click="startQuiz">Tentar Novamente</button>
     </div>
   </div>
 </template>
 
 <script>
+  import rankJson from './rank.json'
   import Question from './Question.vue'
   export default {
     name: 'Quiz',
@@ -36,10 +38,12 @@
     props:['url'],
     data() {
       return {
+        rank: rankJson,
         introStage:false,
         questionStage:false,
         resultsStage:false,
         title:'',
+        questionsJson:[],
         questions:[],
         currentQuestion:0,
         answers:[],
@@ -52,15 +56,31 @@
       .then(res => res.json())
       .then(res => {
         this.title = res.title;
-        this.questions = res.questions;
+        this.questionsJson = res.questions;
         this.introStage = true;
       })
-
     },
     methods:{
       startQuiz() {
+        this.generateRandanQuestions();
         this.introStage = false;
-        this.questionStage = true;
+      },
+      generateRandanQuestions() {
+        var arr = [];
+          while(arr.length < 12){
+              var randomnumber = Math.floor(Math.random()*this.questionsJson.length-1) + 1;
+              if(arr.indexOf(randomnumber) > -1) continue;
+              arr[arr.length] = randomnumber;
+          }
+          for(var i=0; i < arr.length; i++){
+            this.questions[i] = this.questionsJson[arr[i]];
+          }
+          this.questionStage = true;
+          this.perc = null;
+          this.correct = 0;
+          this.resultsStage = false;
+          this.currentQuestion = 0;
+          this.answers = [];
       },
       handleAnswer(e) {
         this.answers[this.currentQuestion]=e.answer;
@@ -82,7 +102,6 @@
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
   margin: 40px 0 0;

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <strong>Question {{ questionNumber }}:</strong><br/>
+        <strong>Questão {{ questionNumber }}:</strong><br/>
         <strong>{{ question.text }} </strong>
 
         <div v-if="question.type === 'tf'">
@@ -13,8 +13,10 @@
             <input type="radio" :id="'answer'+index" name="currentQuestion" v-model="answer" :value="mcanswer"><label :for="'answer'+index">{{mcanswer}}</label><br/>
             </div>
         </div>
-
-        <button @click="submitAnswer">Answer</button>
+        <br>
+        <button @click="submitAnswer">Responder</button>
+        <br><br>
+        <a v-bind:href="question.more" target="_blank">Saiba mais sobre</a>
     </div>
 </template>
 
