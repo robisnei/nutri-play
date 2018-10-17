@@ -1,29 +1,29 @@
 <template>
-    <div>
-        <strong>Questão {{ questionNumber }}:</strong><br/>
-        <strong>{{ question.text }} </strong>
-
-        <div v-if="question.type === 'tf'">
-            <input type="radio" name="currentQuestion" id="trueAnswer" v-model="answer" value="t"><label for="trueAnswer">True</label><br/>
-            <input type="radio" name="currentQuestion" id="falseAnswer" v-model="answer" value="f"><label for="falseAnswer">False</label><br/>
+    <b-card header-tag="header" footer-tag="footer">
+        <div slot="header">
+            <h5 class="mb-0"><b>Questão {{ questionNumber }}</b></h5>
+            <br>
+            <b-progress :value="progress" variant="primary" striped class="mb-2"></b-progress>
         </div>
-
+        
+        <h5>{{ question.text }}</h5>
+        <em slot="footer"><a v-bind:href="question.more" target="_blank">Saiba mais sobre</a></em>
         <div v-if="question.type === 'mc'">
             <div v-for="(mcanswer,index) in question.answers">
-            <input type="radio" :id="'answer'+index" name="currentQuestion" v-model="answer" :value="mcanswer"><label :for="'answer'+index">{{mcanswer}}</label><br/>
+                <b-alert show variant="primary">
+                    <input type="radio" :id="'answer'+index" name="currentQuestion" v-model="answer" :value="mcanswer">
+                    <p :for="'answer'+index">{{mcanswer}}</p>
+                </b-alert>
             </div>
         </div>
-        <br>
-        <button @click="submitAnswer">Responder</button>
-        <br><br>
-        <a v-bind:href="question.more" target="_blank">Saiba mais sobre</a>
-    </div>
+    <b-button class="btn-block" variant="primary" size="lg" @click="submitAnswer">Responder</b-button>
+    </b-card>
 </template>
 
 <script>
     export default {
         name: 'question',
-        props:['question','question-number'],
+        props:['question','question-number', 'progress'],
         data() {
             return {
                 answer:''

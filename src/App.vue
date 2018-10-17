@@ -1,19 +1,29 @@
 <template>
-  <div id="quiz">
-    <quiz url="https://api.myjson.com/bins/drsmw">
+  <b-container>
+      <!-- <b-navbar variant="faded" type="light">
+        <b-navbar-brand href="#">
+          <img src="../assets/logo" alt="BV">
+        </b-navbar-brand>
+      </b-navbar> -->
+    <div id="quiz">
+      <quiz url="https://api.myjson.com/bins/drsmw">
 
-      <div slot="intro" slot-scope="props">
-        Esse quiz tem o tema {{props.title}}.
-      </div>
+        <div slot="intro" slot-scope="props" class="text-secondary">
+          <h5 class="text-secondary ">Esse quiz tem o tema {{props.title}}</h5>
+          <p>
+            <b>Feito pelos aluninhos da UNIP</b>
+          </p>
+        </div>
 
-      <div slot="results" slot-scope="props">
-          Você acertou {{props.correct}} de
-          {{props.length}} questões.
-        Sua porcentagem de acertos foi {{props.perc}}%.
-      </div>
-      
-    </quiz>
-  </div>
+        <div slot="results" slot-scope="props">
+            Você acertou {{props.correct}} de
+            {{props.length}} questões.
+          Sua porcentagem de acertos foi {{props.perc}}%
+        </div>
+        
+      </quiz>
+    </div>
+  </b-container>
 </template>
 
 <script>
